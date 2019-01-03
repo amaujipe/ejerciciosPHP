@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3795c6f3-5714-4d55-8b38-609fc9221bdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio15/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-01/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-02/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-03/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio4/ejercicio4-solucion.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-04/ejercicio4-solucion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio4/ejercicio4.html" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-04/ejercicio4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio4/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio-04/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,10 +50,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/ejercicio15/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+            <state relative-caret-position="168">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -105,6 +111,7 @@
         <option value="$PROJECT_DIR$/ejercicio14/index.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/07c83694-c3f9-4297-be27-8bda0db85105/console.sql" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ejercicio15/index.php" />
       </list>
     </option>
   </component>
@@ -114,7 +121,9 @@
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -186,22 +195,24 @@
       <workItem from="1546038391241" duration="6074000" />
       <workItem from="1546131593064" duration="4300000" />
       <workItem from="1546365445973" duration="5733000" />
-      <workItem from="1546391800421" duration="644000" />
+      <workItem from="1546391800421" duration="837000" />
+      <workItem from="1546463144774" duration="304000" />
+      <workItem from="1546479194406" duration="731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38190000" />
+    <option name="totallyTimeSpent" value="39418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20075758" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20681818" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289256" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -210,13 +221,13 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3305785" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3305785" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Database Console" order="12" visible="true" weight="0.3294893" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.2689394" />
+      <window_info anchor="right" id="Database" order="3" weight="0.2689394" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19166666" />
@@ -244,28 +255,28 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ejercicio3/index.php">
+    <entry file="file://$PROJECT_DIR$/ejercicio-03/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio4/ejercicio4-solucion.php">
+    <entry file="file://$PROJECT_DIR$/ejercicio-04/ejercicio4-solucion.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio4/ejercicio4.html">
+    <entry file="file://$PROJECT_DIR$/ejercicio-04/ejercicio4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio4/index.php">
+    <entry file="file://$PROJECT_DIR$/ejercicio-04/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="9" selection-end-column="42" />
@@ -294,7 +305,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/ejercicio1/index.php">
+    <entry file="file://$PROJECT_DIR$/ejercicio-01/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="966">
           <caret line="46" selection-start-line="46" selection-end-line="46" selection-end-column="42" />
@@ -308,7 +319,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ejercicio2/index.php">
+    <entry file="file://$PROJECT_DIR$/ejercicio-02/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="42" />
@@ -396,6 +407,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ejercicio15/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
