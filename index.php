@@ -10,4 +10,10 @@ echo "<ul>";
     echo "</ul>";
   echo "</li>";
   echo "<hr>";
+
+  echo "<li>
+    <a href='ejercicio-02'><strong>Ejercicio 2: </strong></a>Escribir un script en PHP que
+    nos muestre por pantalla todos los numeros pares que hay del 1 al 100.";
+  echo "</li>";
+  echo "<hr>";
 echo "</ul>";

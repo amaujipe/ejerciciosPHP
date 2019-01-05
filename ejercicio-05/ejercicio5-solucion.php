@@ -25,5 +25,5 @@ else {
   echo "<h1>Por favor ingresa 2 numeros</h1>";
 }
 
-echo "<br /><br /><a href='./ejercicio5.html'>Volver al formulario</a>";
+echo "<br /><br /><a href='ejercicio5.html'>Volver al formulario</a>";
 echo "<br /><br /><a href='/'>Volver al home</a>";
